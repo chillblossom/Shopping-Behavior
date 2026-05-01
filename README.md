@@ -2,7 +2,6 @@
 
 ## Analytical Questions
 
-What are 6 analytical questions you can ask about this dataset?
 
 How does the average Purchase Amount vary across different Age groups, 
 and which demographic represents the highest overall transaction value?
